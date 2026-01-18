@@ -1,0 +1,6 @@
+@bt_HostAddress = http://localhost:5266
+
+GET {{bt_HostAddress}}/api/students/
+Accept: application/json
+
+###
